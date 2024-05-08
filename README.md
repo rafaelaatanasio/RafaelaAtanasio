@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá, me chamo Rafaela Atanásio!
+### Olá, me chamo Rafaela Atanásio! 👋👩‍💻
 
-✨ _Bem vindo ao meu perfil GitHub_ ✨ 👋! 👩‍💻
+✨ _Bem vindo ao meu perfil GitHub_ ✨ 
 
 #### Sobre mim:
 
