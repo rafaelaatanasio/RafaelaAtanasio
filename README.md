@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **rafaelaatanasio/RafaelaAtanasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ### Olá, me chamo Rafaela Atanásio!
 
-Bem vindo ao meu perfil GitHub 👋! 👩‍💻
-**rafaelaatanasio/RafaelaAtanasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ _Bem vindo ao meu perfil GitHub_ ✨ 👋! 👩‍💻
 
 #### Sobre mim:
 
@@ -28,7 +27,6 @@ Bem vindo ao meu perfil GitHub 👋! 👩‍💻
 - 🔍 Estou em busca da minha primeira oportunidade no mercado de trabalho.
 - 🧠 Adoro aprender coisas novas.
 
-  
 
 - 🔨 Linguagens e ferramentas:
 
@@ -36,9 +34,7 @@ Bem vindo ao meu perfil GitHub 👋! 👩‍💻
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,firebase,vite,vercel,jest,git,bootstrap,figma&theme=dark)](https://skillicons.dev)
 
 
-
  
 
-Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou apenas para trocar ideias! Você pode me encontrar no  
-[LinkedIn](https://www.linkedin.com/in/rafaela-atanasio) para mais informações.
+Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou apenas para trocar ideias! Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/rafaela-atanasio) para mais informações!
 
