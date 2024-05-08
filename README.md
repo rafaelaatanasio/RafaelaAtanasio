@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 - 🧠 Adoro aprender coisas novas.
 
 
-- 🔨 Linguagens e ferramentas:
+### 🔨 Linguagens e ferramentas:
 
-  
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,firebase,vite,vercel,jest,git,bootstrap,figma&theme=dark)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,github,vscode,netlify,wordpress)](https://skillicons.dev)
 
  
 
-Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou apenas para trocar ideias! Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/rafaela-atanasio) para mais informações!
+Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou apenas para trocar ideias!
+
+- 💬 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/rafaela-atanasio) para mais informações!
 
