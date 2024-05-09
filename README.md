@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 #### Sobre mim:
 
-- 🚀 Estou em transição de carreira para a área de tecnologia.
-- 📚 Estou cursando o bootcamp Laboratória de desenvolvimento web.
-- 💻 Atualmente estou me aprofundando em JavaScript, HTML e CSS.
+- 🚀 Estou embarcando em uma emocionante jornada de transição de carreira para o mundo da tecnologia.
+- 📚 Estou imersa no bootcamp da Laboratória, focada no desenvolvimento web.
+- 💻 Atualmente, estou aprofundando meus conhecimentos em JavaScript, HTML e CSS para construir bases sólidas.
 - 🔍 Estou em busca da minha primeira oportunidade no mercado de trabalho.
-- 🧠 Adoro aprender coisas novas.
+- 🧠 Estou sempre buscando novos desafios para alimentar minha curiosidade. Amo aprender coisas novas.
 
 
 ### 🔨 Linguagens e ferramentas:
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
  
 
-Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou apenas para trocar ideias!
+Fique à vontade para me contatar e discutir possíveis oportunidades de colaboração ou apenas para compartilhar ideias e experiências!
 
 - 💬 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/rafaela-atanasio) para mais informações!
 
