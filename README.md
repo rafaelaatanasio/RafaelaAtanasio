@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 🚀 Estou em uma emocionante jornada de transição de carreira para o mundo da tecnologia.
 📚 Concluí o bootcamp da Laboratória em desenvolvimento web front-end e agora estou imersa no bootcamp da Reprograma, focada em back-end com JavaScript.
+
 💻 Atualmente, estou aprimorando minhas habilidades em Node.js, Nest.js, TypeScript, APIs RESTful e Banco de dados, com foco em desenvolvimento back-end.
 🔍 Estou em busca de novas oportunidades para aplicar meu conhecimento e contribuir para projetos inovadores.
 🧠 Sempre em busca de desafios e novas aprendizagens. Amo explorar e dominar novas tecnologias.
