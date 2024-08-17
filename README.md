@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### 🔨 Linguagens e ferramentas:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,figma,git,github,vscode,netlify,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,css,docker,figma,git,github,html,js,nestjs,netlify,nodejs,notion,npm,postgres,ts,vercel,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
  
 
