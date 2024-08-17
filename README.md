@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 Fique à vontade para me contatar e discutir possíveis oportunidades de colaboração ou apenas para compartilhar ideias e experiências!
 
-- 💬 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/rafaela-atanasio) para mais informações!
+💬 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/rafaela-atanasio) para mais informações!
 
